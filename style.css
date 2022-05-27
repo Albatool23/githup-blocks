@@ -1,0 +1,51 @@
+
+
+div {
+    padding: 40px;
+    border: 1px solid #f2f6f2;
+    }
+    
+.img {
+    
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    background-color: skyblue;
+    margin-right: 20px ;
+    margin-left: 20px ;
+
+    
+
+}
+
+
+.img2{
+
+    
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: pink;
+    margin-right: 20px ;
+    margin-left: 20px ;
+
+}
+
+.img3{
+    
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    margin-right: 20px ;
+    margin-left: 20px ;
+
+    
+}
+
+
+h1{
+
+    text-align: center;
+}
+
